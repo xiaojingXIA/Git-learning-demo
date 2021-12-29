@@ -3,5 +3,5 @@
   "target" : { 
     "namespace": "android_app", 
     "package_name": "com.example.applinkdemo",
-    "sha256_cert_fingerprints": ["02:84:88:61:6A:3B:9F:FE:5C:95:1B:56:81:20:B7:C9:9E:6B:71:64:A3:32:75:A9:6B:E7:38:D2:1D:B8:45:55"] }
+    "sha256_cert_fingerprints": ["2F:D6:E8:91:31:85:C9:A8:13:74:08:90:BD:73:C6:D6:84:72:AD:20:1A:A1:7A:04:E4:1A:22:28:47:E9:3C:87"] }
 }]
